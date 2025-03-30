@@ -24,11 +24,11 @@ const HRDataAnalysisDescription = () => {
         <li><strong>📡 Flask/Django:</strong> Backend API</li>
       </ul>
       
-      <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-700 border-b pb-2">🌍 Live Demo & Code</h2>
+      {/* <h2 className="text-3xl font-semibold mt-8 mb-4 text-gray-700 border-b pb-2">🌍 Live Demo & Code</h2> */}
       <p className="text-gray-600 text-lg">
-        🔗 <a href="https://your-live-demo-link.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline font-semibold">Live Demo</a>
+        {/* 🔗 <a href="https://your-live-demo-link.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline font-semibold">Live Demo</a> */}
         <br />
-        📂 <a href="https://github.com/yourgithub/hr-data-analysis" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline font-semibold">GitHub Repository</a>
+        {/* 📂 <a href="https://github.com/yourgithub/hr-data-analysis" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline font-semibold">GitHub Repository</a> */}
       </p>
     </div>
   );

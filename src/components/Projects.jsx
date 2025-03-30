@@ -84,10 +84,10 @@ export const project = [
     },
     {
         title: 'E-commerce Website',
-        description: 'Developed a scalable e-commerce website with user authentication, product search, and a secure payment gateway.',
+        description: 'Developed a scalable e-commerce website with user authentication, Blogs, Product Search and Tracker.',
         image: ecommerce,
         git: 'https://github.com/Smeet23/Ecommerce-Django',
-        technologies: ['Html','Css', 'Django', 'MySql', '   Python']
+        technologies: ['Html','Css', 'Django', 'SqLite', '   Python']
     }
 ];
 
