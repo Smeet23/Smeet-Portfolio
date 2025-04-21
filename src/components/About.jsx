@@ -45,7 +45,7 @@ const About = () => {
             {/* Properly spaced buttons */}
             <div className="flex flex-col">
               <ButtonLink
-                url='https://drive.google.com/file/d/1chDPZ_I0OObyeNxb0mSl0e4lD1UORqtX/view?usp=sharing'
+                url='https://drive.google.com/file/d/1NcFXy3ywe1GZs8IxYc4WFbZ5akXbTHed/view?usp=drive_link'
                 text='View Resume →'
                 padding={`p-3`}
               />
